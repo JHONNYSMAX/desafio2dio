@@ -1,0 +1,16 @@
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.exe
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.deps.json
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.runtimeconfig.json
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.runtimeconfig.dev.json
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.dll
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\ref\desafio2dio.dll
+C:\Users\Max\desafio2dio\bin\Debug\net5.0\desafio2dio.pdb
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.csprojAssemblyReference.cache
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.AssemblyInfoInputs.cache
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.AssemblyInfo.cs
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.csproj.CoreCompileInputs.cache
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.dll
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\ref\desafio2dio.dll
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.pdb
+C:\Users\Max\desafio2dio\obj\Debug\net5.0\desafio2dio.genruntimeconfig.cache
